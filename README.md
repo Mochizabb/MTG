@@ -1,1 +1,2 @@
-[!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-png%2Fgreen-check-mark&psig=AOvVaw3vn3TH3g67p4ZxRtp7HmoE&ust=1717187367080000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJj-8MmbtoYDFQAAAAAdAAAAABAt)] Página de login com efeitos simples
+[(![image](https://github.com/Mochizabb/MTG/assets/142332886/7d119748-6ed5-4d7e-a7f5-1dc69657dead)
+)] Página de login com efeitos simples
