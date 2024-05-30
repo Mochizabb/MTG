@@ -1,2 +1,6 @@
-[(![image](https://github.com/Mochizabb/MTG/assets/142332886/7d119748-6ed5-4d7e-a7f5-1dc69657dead)
-)] Página de login com efeitos simples
+[X] Página de login com efeitos simples
+[ ] Adicionar banco de dados para registro e login
+[ ] Adicionar checagem de perfil
+[ ] Adicionar imagem no perfil
+[ ] Adicionar musica tema no perfil
+[ ] Criar página principal
