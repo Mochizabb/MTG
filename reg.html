@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="reg.css">
+</head>
+<body>
+    <div class="logbox">
+        <form>
+            <span class="login">Login</span>
+        <div class="input-box">
+                <input type="text" required="/">
+                <label>Nome</label>
+        </div>
+        <div class="input-box">
+            <input type="text" required="/">
+            <label>Usuário</label>
+        </div>
+        <div class="input-box">
+            <input type="password" required=""/>
+            <label>Senha</label>
+        </div>
+        <button onclick="log()" type="submit" class="btn">Registrar-se</button>
+        </form>
+    </div>
+
+    <script>
+        function log() {
+            location.replace("ini.html")
+        }
+    </script>
+</body>
+</html>
